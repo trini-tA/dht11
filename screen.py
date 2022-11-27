@@ -7,7 +7,7 @@ class Screen:
         display.fill(0)
 
         display.text(display_name, 0, 0, 1)
-        display.text('Hello :)', 0, 20, 1)
+        display.text('dht11 :)', 0, 20, 1)
         display.text('Start...', 0, 40, 1)
 
         display.show()
